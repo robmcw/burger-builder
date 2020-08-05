@@ -7,8 +7,8 @@
   background-color: #703b09;
   display: flex;
   justify-content: space-between;
-  align-items: centre;
-  padding: 0, 20px;
+  align-items: center;
+  padding: 0 20px;
   box-sizing: border-box;
   z-index: 90;
 }
